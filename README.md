@@ -7,7 +7,7 @@ To run, run the following in your CLI:
 
 python -c "import SequenceMatcher; SequenceMatcher.findMatches(\\"ref.fasta\\",\\"test.fasta\\")"
 
-ref.fasta and test.fasta can be replaced with paths for any reference sequence and test file respectively, as required. Included in this repo are an example ref.fasta containing the HIV-1 reference genome and a test.fasta file containing HIV DNA corrupted with TB.
+ref.fasta and test.fasta can be replaced with paths for any reference sequence and test file respectively, as required. Included in this repo are an example ref.fasta containing the pol gene of HIV-1 and a test.fasta file containing HIV-1 contaminated with TB.
 
 Output will be in the form of:
 - A matches.fasta file containing all the pieces of sequence in test.fasta that were found in ref.fasta
