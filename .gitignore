@@ -85,4 +85,5 @@ $RECYCLE.BIN/
 *.lnk
 __pycache__/SequenceMatcher.cpython-35.pyc
 challenge.pdf
+mismatches.fasta
 matches.fasta
