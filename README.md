@@ -5,7 +5,7 @@ To use, you will need a version of Python 3 installed (which you can access at h
 
 To run, run the following in your CLI:
 
-python -c "import SequenceMatcher; SequenceMatcher.findMatches(\"ref.fasta\",\"test.fasta\")"
+python -c "import SequenceMatcher; SequenceMatcher.findMatches(\\"ref.fasta\\",\\"test.fasta\\")"
 
 ref.fasta and test.fasta can be replaced with paths for any reference sequence and test file respectively, as required. Included in this repo are an example ref.fasta containing the HIV-1 reference genome and a test.fasta file containing HIV DNA corrupted with TB.
 
