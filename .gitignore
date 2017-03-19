@@ -83,3 +83,6 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+__pycache__/SequenceMatcher.cpython-35.pyc
+challenge.pdf
+matches.fasta
